@@ -2,6 +2,8 @@ module github.com/chenzhijie/go-web3
 
 go 1.18
 
+replace github.com/chenzhijie/go-web3 => github.com/alexray-2016/go-web3 master
+
 require (
 	github.com/ethereum/go-ethereum v1.10.26
 	github.com/gorilla/websocket v1.5.0

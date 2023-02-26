@@ -1,7 +1,7 @@
 package rpc
 
 import (
-	"github.com/chenzhijie/go-web3/rpc/transport"
+	"github.com/alexray-2016/go-web3/rpc/transport"
 )
 
 type Client struct {

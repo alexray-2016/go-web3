@@ -17,3 +17,5 @@ require (
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292 // indirect
 	golang.org/x/sys v0.0.0-20220728004956-3c1f35247d10 // indirect
 )
+
+replace github.com/chenzhijie/go-web3 => github.com/alexray-2016/go-web3 v0.0.0-20230226091529-a920f1f4e895

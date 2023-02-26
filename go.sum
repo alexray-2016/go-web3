@@ -1,7 +1,5 @@
 github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 h1:fLjPD/aNc3UIOA6tDi6QXUemppXK3P9BI7mr2hd6gx8=
 github.com/VictoriaMetrics/fastcache v1.6.0 h1:C/3Oi3EiBCqufydp1neRZkqcwmEiuRT9c3fqvvgKm5o=
-github.com/alexray-2016/go-web3 v0.0.0-20230226091529-a920f1f4e895 h1:1wGtIybHHmlaCXMDfb/YAgwez2/qqR4t0wEowxs8ips=
-github.com/alexray-2016/go-web3 v0.0.0-20230226091529-a920f1f4e895/go.mod h1:Ngj/3SKXcmcLheZuDTudxe/cvnl89m/3Rz39qrzAZiY=
 github.com/andybalholm/brotli v1.0.4 h1:V7DdXeJtZscaqfNuAdSRuRFzuiKlHSC/Zh3zl9qY3JY=
 github.com/andybalholm/brotli v1.0.4/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
 github.com/btcsuite/btcd/btcec/v2 v2.2.0 h1:fzn1qaOt32TuLjFlkzYSsBC35Q3KUjT1SwPxiMSCF5k=

@@ -1,11 +1,10 @@
-module github.com/alexray-2016/go-web3
+module github.com/chenzhijie/go-web3
 
 go 1.18
 
-replace github.com/chenzhijie/go-web3 => github.com/alexray-2016/go-web3 v0.0.0-20230226091529-a920f1f4e895
+replace github.com/chenzhijie/go-web3 => github.com/alexray-2016/go-web3 master
 
 require (
-	github.com/chenzhijie/go-web3 v0.0.0-20230207023847-2f8f24b124a4
 	github.com/ethereum/go-ethereum v1.10.26
 	github.com/gorilla/websocket v1.5.0
 	github.com/valyala/fasthttp v1.41.0

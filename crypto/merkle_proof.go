@@ -3,7 +3,7 @@ package crypto
 import (
 	"bytes"
 
-	"github.com/alexray-2016/go-web3/utils"
+	"github.com/chenzhijie/go-web3/utils"
 	"github.com/ethereum/go-ethereum/common"
 )
 
